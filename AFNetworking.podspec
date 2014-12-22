@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A delightful iOS and OS X networking framework.'
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me', 'Scott Raymond' => 'sco@gowalla.com' }
-  s.source   = { :git => 'https://github.com/pwangco/AFNetworking.git', :branch => '1.3.4' }
+  s.source   = { :git => 'https://github.com/appone/AFNetworking.git', :branch => '1.3.4' }
   s.source_files = 'AFNetworking'
   s.requires_arc = true
 
